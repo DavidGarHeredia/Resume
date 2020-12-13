@@ -1,0 +1,3 @@
+Page created using the template in https://github.com/StartBootstrap/startbootstrap-resume
+
+The cited template is released under MIT license.
